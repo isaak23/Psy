@@ -1,0 +1,2 @@
+language = "c"
+run ="gcc -Wall -pthread prova.c -o prova \n ./prova"
